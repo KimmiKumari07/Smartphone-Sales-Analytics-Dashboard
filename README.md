@@ -74,7 +74,12 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-_Add your dashboard screenshots here_
+
+<p align="center">
+  <img src="images/Overview%20.jpeg" width="30%" />
+  <img src="images/Brand%20Performance.jpeg" width="30%" />
+  <img src="images/Region%20Performance.jpeg" width="30%" />
+</p>
 
 ---
 

@@ -76,9 +76,9 @@ The dataset includes:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="images/Overview%20.jpeg" width="30%" />
-  <img src="images/Brand%20Performance.jpeg" width="30%" />
-  <img src="images/Region%20Performance.jpeg" width="30%" />
+  <img src="IMAGES/Overview.jpeg" width="30%" />
+  <img src="IMAGES/Brand%20Performance.jpeg" width="30%" />
+  <img src="IMAGES/Region%20Performance.jpeg" width="30%" />
 </p>
 
 ---
